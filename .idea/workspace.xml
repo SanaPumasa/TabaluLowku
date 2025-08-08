@@ -5,10 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a1ea473c-2975-4991-8012-e55b1a0cb684" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/DjangoProject.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/DjangoProject.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DjangoProject/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/DjangoProject/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DjangoProject/view.py" beforeDir="false" afterPath="$PROJECT_DIR$/DjangoProject/view.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/base.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/templates/main.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/main.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -60,6 +59,8 @@
     &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
     &quot;django.template.preview.state&quot;: &quot;SHOW_EDITOR_AND_PREVIEW&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -69,6 +70,12 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\project\TabaluLowku\.venv" />
+      <recent name="C:\project\TabaluLowku\.venv1" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="DjangoProject" type="Python.DjangoServer" factoryName="Django server">
       <module name="DjangoProject" />
@@ -98,7 +105,6 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-js-predefined-d6986cc7102b-09060db00ec0-JavaScript-PY-251.26927.74" />
         <option value="bundled-python-sdk-657d8234b839-64d779b69b7a-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-251.26927.74" />
       </set>
     </attachedChunks>
@@ -112,6 +118,10 @@
       <updated>1751700334919</updated>
       <workItem from="1751700336045" duration="15935000" />
       <workItem from="1751729962747" duration="894000" />
+      <workItem from="1751970416958" duration="2653000" />
+      <workItem from="1752229077280" duration="284000" />
+      <workItem from="1752577402042" duration="7000" />
+      <workItem from="1752580934285" duration="33000" />
     </task>
     <servers />
   </component>
